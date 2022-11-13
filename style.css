@@ -1,0 +1,47 @@
+#wrap{
+    margin: 0 auto;
+    text-align: center;
+ background-color: rgb(1, 82, 78);
+}
+
+#sectionaboutUs{
+    color: aliceblue;
+}
+span{
+    color: aliceblue;
+}
+#header{
+    color: antiquewhite;
+    background-color: rgb(1, 82, 78);
+
+}
+#controlSalad{
+    margin:  auto;
+float: left;
+width: 33.33%;
+padding:
+
+}
+
+#controlDessert{
+
+    
+    
+    
+    }
+    
+#wrapMenu{
+    background-color: rgb(1, 82, 78);
+    color: aliceblue;
+}
+h1{
+    color: rgb(46, 199, 204);
+    text-align: center;
+    
+}
+#wrapBooking{
+    margin: 0 auto;
+    text-align: center;
+ background-color: rgb(1, 82, 78);
+ text-align: center;
+}
